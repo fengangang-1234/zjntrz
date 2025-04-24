@@ -1,0 +1,5 @@
+ucli
+pm port-add 9/- 10g none
+pm port-enb -/-
+exit
+bfrt_python test.py
